@@ -1,2 +1,5 @@
 npm init -y
 npm install -D tailwindcss
+npx tailwind init
+npm i -D vite prostcss autoprefixer
+npm run dev
